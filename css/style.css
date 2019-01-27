@@ -1,0 +1,76 @@
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    color: white;
+}
+
+section.herosec {
+    text-align: center;
+    background: linear-gradient(to right, #556270, #4ECDC4);
+    background: linear-gradient(to right, #89fffd, #ef32d9);
+    background: linear-gradient(to right, blue, aqua);
+}
+.herosec h1{color: white; padding: 180px 0px 10px 0px;font-size: 60px;}
+.herosec p{color: black; font-size: 25px;padding: 15px;}
+.herosec a{margin: 10px;padding: 15px;}
+
+.servicesec{padding: 80px 0px;}
+.servicesec h2{padding: 15px;}
+.servicesec p{padding: 15px;font-size: 20px;}
+.servicesec img{padding: 30px;}
+.servicesec a{padding: 15px; background-color: #343a40;}
+/*.servicesec a, .servicesec a:hover{padding: 15px;
+ background-color: #343a40;}*/
+
+.featureone{padding: 80px 0px;background-color: grey;}
+.featureone h2{padding: 20px;font-size: 50px;}
+.featureone p{padding: 15px;font-size: 20px;}
+
+.featuretwo{padding: 70px 0px;background-color: pink;}
+.featuretwo h2{padding: 25px;font-size: 50px;}
+.featuretwo p{padding: 20px; font-size: 20px;}
+
+footer p{margin: 0px;}
+.social{margin: 0px; padding: 10px;}
+.social li{display: inline-block;padding: 5px 0px;list-style: none;}
+.social i{font-size: 15px;}
+
+.pagetitle{padding: 50px 0px;
+background: linear-gradient(to right, #b3ffab, #12fff7)}
+.pagetitle h2{font-size: 45px;}
+
+
+.abtwel{padding: 80px;background: white;}
+.abtwel h2{font-size: 40px;}
+.abtwel p{font-size: 20px;}
+.abtwel .sep{height: 4px;margin: 15px 0 20px;width: 44%;background: #19d376;}
+
+
+.ourteam{padding: 80px 0px;}
+.ourteam h2{font-size: 40px;}
+.ourteam .desc{padding: 0 130px;}
+
+
+.ourteam .team{box-shadow: 2px 2px 12px rgba(0,0,0,0.2)}
+.ourteam .team h3{font-size: 20px;}
+.ourteam .team h3 small{font-style: italic;font-size: 70%;}
+
+
+.contacttitle .sep{height: 4px;margin: 15px 0 20px;width: 85%;background: #19d376;}
+.contacttitle {margin: 40px; padding: 40px;}
+.contacttitle p{background:  linear-gradient(to right, #b3ffab, #12fff7);
+  padding: 40px 15px; font-style:initial; ; font-size: 20px;color: black; }
+.contacttitle h2{padding: 20px;font-size: 45px;}
+.contacttitle .desc {padding: 40px;}
+
+
+button.btn.btn-primary {
+    float: right;
+}
+
+
